@@ -1,0 +1,43 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050914"/>
+      <stop offset="100%" stop-color="#0a1830"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#2EC8FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- subtle dot grid -->
+  <g fill="#173a5e" opacity="0.5">
+    <circle cx="40" cy="40" r="1.5"/><circle cx="90" cy="40" r="1.5"/><circle cx="140" cy="40" r="1.5"/>
+    <circle cx="40" cy="80" r="1.5"/><circle cx="90" cy="80" r="1.5"/><circle cx="140" cy="80" r="1.5"/>
+    <circle cx="40" cy="120" r="1.5"/><circle cx="90" cy="120" r="1.5"/><circle cx="140" cy="120" r="1.5"/>
+  </g>
+
+  <!-- name -->
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="64" font-weight="800" fill="url(#nameGrad)">RAHUL MAURYA</text>
+
+  <!-- accent bar -->
+  <rect x="62" y="155" width="5" height="60" fill="#2EC8FF"/>
+
+  <!-- subtitle -->
+  <text x="82" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">FULL STACK <tspan fill="#2EC8FF">DEVELOPER</tspan></text>
+  <text x="82" y="210" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#2EC8FF">AI &amp; <tspan fill="#ffffff">MACHINE LEARNING ENTHUSIAST</tspan></text>
+
+  <!-- tech pill row -->
+  <rect x="62" y="235" width="900" height="36" rx="18" fill="none" stroke="#2b4a6d" stroke-width="1"/>
+  <text x="90" y="258" font-family="Arial, sans-serif" font-size="15" fill="#c9d6e3">FLASK &#8226; NODE.JS &#8226; EXPRESS.JS &#8226; MONGODB &#8226; MYSQL &#8226; BOOTSTRAP &#8226; REACT</text>
+
+  <!-- right side: contact block -->
+  <g font-family="Arial, sans-serif" font-size="16" fill="#c9d6e3">
+    <text x="900" y="60">in/rahul-49b402273</text>
+    <text x="900" y="90">rahulmaurya2645@gmail.com</text>
+    <text x="900" y="120">rahul2648.github.io/rahul_maurya</text>
+    <text x="900" y="150">Delhi, India</text>
+  </g>
+</svg>
