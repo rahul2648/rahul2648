@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC866,100:0077B5&height=200&section=header&text=Rahul%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Flask+%7C+Node.js+%7C+Express;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EC866&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+%7C+AI+Enthusiast;Flask+%7C+Node.js+%7C+Express+%7C+MERN;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real+products" alt="Typing SVG" />
 
 </div>
 
@@ -30,10 +30,10 @@
 
 ### 🎯 Currently Learning
 
-- System Design
-- Python (advanced)
-- MERN Stack
-- SQL
+<img src="https://img.shields.io/badge/System%20Design-4B0082?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/Python%20(Advanced)-3776AB?style=flat-square&logo=python&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/MERN%20Stack-00D8FF?style=flat-square&logo=react&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </td>
 </tr>
