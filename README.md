@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EC866&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Flask+%7C+Node.js+%7C+Express;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real+products" alt="Typing SVG" />
 
 <p>
-  <a href="https://rahul2648.github.io/rahul_maurya/" target="_blank">
+  <a href="https://rahul2648.github.io/rahul-maurya-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2EC866?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rahul-49b402273" target="_blank">
@@ -24,10 +24,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **MCA**, with coursework in Machine Learning (Python) and Data Science (R)
+- 🎓 Pursuing **MCA**, with coursework in Machine Learning (Python)
 - 💻 I build **full-stack web applications** — backends in Flask/Python and Node.js/Express, frontends in Bootstrap
 - 🤖 Currently exploring **AI integration** in real-world apps (chatbots, smart recommendations, resume analysis)
-- 📍 Based in Delhi, India
+- 📍 Based in Noida, India
 - 🌱 Always shipping something — from placement tools to e-commerce platforms
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/rahul-49b402273) or [Email](mailto:rahulmaurya2645@gmail.com)
 
@@ -58,7 +58,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -69,11 +68,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[House-Price-Prediction](https://github.com/rahul2648/House-Ptrediction-Price)** | Predicts house prices using linear regression | Python, ML |
-| **[Face Recognition Project](https://github.com/rahul2648/face-recognition-project)** | Face detection & recognition system | Python |
-| **E-Commerce Platform** *(in progress)* | Full-stack store built from scratch with auth, payments, live tracking, and maps | Node.js, MongoDB, Firebase, Razorpay, Socket.io |
-| **GlowAI** *(coming soon)* | Skincare recommendation app with an AI chatbot, progress dashboard (Chart.js), and skin-type quiz | Node.js, Express, Anthropic API |
-| **Placify** *(coming soon)* | Placement prediction tool with an ATS resume scanner powered by AI-structured analysis | Flask, Python, Bootstrap |
+| **[House-Price-Prediction](https://github.com/rahul2648/house-price-prediction)** | Predicts house prices using linear regression | Python, ML |
+| **[Face Recognition System](https://github.com/rahul2648/face-recognition-system)** | Real-time face detection & recognition, auto-attendance | Python, OpenCV, Flask |
+| **GiftAndGrid** *(private repo)* | Full-stack e-commerce platform built from scratch with auth, payments, live tracking, and maps | Node.js, MongoDB, Firebase, Razorpay, Socket.io |
+| **[Engineering Copilot](https://github.com/rahul2648/ENGINEERING-CAPILOT)** *(collaboration)* | AI-powered platform that helps engineering students with notes, doubt solving & resources — built with [radhikagupta667788-rgb](https://github.com/radhikagupta667788-rgb) | TypeScript |
+| **Quiz App** *(coming soon)* | Interactive quiz application | TBD |
 
 ---
 
