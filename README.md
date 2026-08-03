@@ -7,7 +7,7 @@
   <a href="https://rahul2648.github.io/rahul-maurya-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2EC866?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/rahul-49b402273" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-maurya-dev-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rahulmaurya2645@gmail.com">
@@ -29,7 +29,7 @@
 - 🤖 Currently exploring **AI integration** in real-world apps (chatbots, smart recommendations, resume analysis)
 - 📍 Based in Noida, India
 - 🌱 Always shipping something — from placement tools to e-commerce platforms
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/rahul-49b402273) or [Email](mailto:rahulmaurya2645@gmail.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rahul-maurya-dev-ai/) or [Email](mailto:rahulmaurya2645@gmail.com)
 
 ---
 
